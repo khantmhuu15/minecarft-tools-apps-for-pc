@@ -1,1 +1,1 @@
- minecarft tools now no linux(only windows)
+minecarft tools now no linux(only windows)
